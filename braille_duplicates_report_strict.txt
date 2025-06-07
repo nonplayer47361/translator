@@ -1,0 +1,3 @@
+구분점자 기준 혼동 가능한 중복 점자 셀:
+[hangul] (1, 0, 1, 0, 1, 0) -> [('MEDIAL_TO_BRAILLE', 'ㅐ'), ('MEDIAL_TO_BRAILLE', 'ㅣ')]
+[symbol] (0, 1, 1, 0, 0, 1) -> [('SYMBOL_TO_BRAILLE', '?'), ('SYMBOL_TO_BRAILLE', '“')]
